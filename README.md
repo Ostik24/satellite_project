@@ -11,13 +11,10 @@ insights for future space missions and astronaut safety.
 - **Thermometer Integration**: Implementation of a communication interface for the DS18B20 temperature sensor, enabling onboard temperature monitoring.
 
 ### Prerequisites
-- **Hardware**: STM32F411DISCO microcontroller, DS18B20 thermometer, 
 - **Software**: 
   - STM32CubeIDE.
   - Arduino IDE (testing with Arduino Nano).
   - Required libraries: OneWire (for DS18B20 integration).
-
-### CubeSat System Components
 - **Onboard Computer**
   - STM32-F411E-DISCO
 - **Engineering Instruments**
@@ -37,7 +34,7 @@ insights for future space missions and astronaut safety.
 
 ### Setting Up the Power System
 Connect the batteries, solar panels, and voltage regulators according to the schematic:
-(paste image)
+![CubeSat Power System](Schematic_Simple-Power-managment.pdf)
 
 ## Acknowledgments
 - **Team Members**: Sofiia Sampara, Sofiia Popeniuk, Ostap Pavlyshyn
