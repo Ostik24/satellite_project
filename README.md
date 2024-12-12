@@ -1,4 +1,4 @@
-# Sattelite prototype
+# Satellite prototype
 
 CubeSats, miniature satellites of a standard format, are increasingly used for scientific research in space. 
 This repository  presents the development of a CubeSat prototype designed to investigate the growth of mold 
